@@ -353,3 +353,21 @@ label {
 	color: #f2842d;
 	text-decoration: none;
 }
+@media screen and (max-width: 960px) {
+.content .column-left{
+	width: 95%;
+	float: none;
+	padding-right: 20px;
+	margin-right: 20px;
+}
+.content .column-right {
+	width: 95%;
+	float: none;
+}	
+.content .block {
+	width: 100%;
+}
+.footer {
+	width: 95%;
+}
+}
