@@ -112,7 +112,7 @@ section {
 }
 .content .column-left .block h2 {
 	font-size: .8em;
-	color: #ababab;
+	color: #919091;
 }
 .content .column-left .block p {
 	font-size: .8em;
@@ -152,9 +152,11 @@ section {
 	text-decoration: none;
 	color: #bfbcb7;
 }
-
 .read-more a:hover {
 	color: #f2842d;
+}
+.post-subhead-light {
+	color: #a9a9a9;
 }
 .content .column-right {
 	min-width: 320px;
